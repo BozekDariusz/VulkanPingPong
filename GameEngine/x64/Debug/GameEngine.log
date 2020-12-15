@@ -1,9 +1,9 @@
 ﻿  GameEngine.cpp
-C:\Users\Dracops\source\repos\GameEngine\GameEngine\GameEngine.cpp(427,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\Dracops\source\repos\GameEngine\GameEngine\GameEngine.cpp(437,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Dracops\Desktop\Github\VulkanPong\GameEngine\GameEngine.cpp(429,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dracops\Desktop\Github\VulkanPong\GameEngine\GameEngine.cpp(439,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=uint16_t
           ]
-C:\Users\Dracops\source\repos\GameEngine\GameEngine\GameEngine.cpp(1431,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  GameEngine.vcxproj -> C:\Users\Dracops\source\repos\GameEngine\x64\Debug\GameEngine.exe
+C:\Users\Dracops\Desktop\Github\VulkanPong\GameEngine\GameEngine.cpp(1433,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GameEngine.vcxproj -> C:\Users\Dracops\Desktop\Github\VulkanPong\x64\Debug\GameEngine.exe
